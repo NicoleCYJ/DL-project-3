@@ -1,6 +1,12 @@
 # DL-project-3
 This is the project 2 for MSBD6000B Deep Learning Course
 
+Author:
+CHANG, YAJIE    20459996
+XU, CHAOYI      20461901
+WANG, WEIXIAO   20476516
+QIU, FENG       20398324
+
 Breast cancer is the most common cancer in women worldwide. In this project, you are required to classify the x-ray images into normal and abnormal to help detect the cancer.
 There are two data sets for the project on the Dropbox: Dataset_A.zip  Dataset_B.zip
 
