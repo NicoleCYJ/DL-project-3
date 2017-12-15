@@ -353,7 +353,7 @@ y_test_predict=m.predict(x_test_svm)
 
 print(y_test_predict)
 
-with open('./result.csv', 'wb',  newline='', encoding='utf_8_sig') as csvfile:
+with open('./result.csv', 'w',  newline='', encoding='utf_8_sig') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['image ID', 'class'])
     for i in range(len(x_test_index)):
