@@ -1,7 +1,7 @@
 # DL-project-3
 This is the project 2 for MSBD6000B Deep Learning Course
 
-Author:
+Author:       
 CHANG, YAJIE    20459996           
 XU, CHAOYI      20461901      
 WANG, WEIXIAO   20476516      
