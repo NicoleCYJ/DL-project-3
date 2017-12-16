@@ -10,12 +10,12 @@ QIU, FENG       20398324
 Here is our contribution table: 
 
 Codes:	      
-    Separate patches:	WANG WeiXiao, XU ChaoYi  
-	  Predict patches:	CHANG Yajie, XU Chao Yi   
-	  Select patches:	 WANG WeiXiao      
-	  Predict images:	 WANG WeiXiao, CHANG Yajie      
-Algorithms:	 WANG WeiXiao, CHANG Yajie, Qiu Feng
-Report:	 Qiu Feng, CHANG, Yajie, WANG Wei Xiao
+	Separate patches:	WANG WeiXiao, XU ChaoYi  
+	Predict patches:	CHANG Yajie, XU Chao Yi   
+	Select patches:		WANG WeiXiao      
+	Predict images:		WANG WeiXiao, CHANG Yajie      
+Algorithms:	WANG WeiXiao, CHANG Yajie, Qiu Feng         
+Report:		Qiu Feng, CHANG, Yajie, WANG Wei Xiao
 
 
 Breast cancer is the most common cancer in women worldwide. In this project, you are required to classify the x-ray images into normal and abnormal to help detect the cancer.
